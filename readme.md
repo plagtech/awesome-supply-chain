@@ -62,6 +62,7 @@
 - [pyschedule](https://github.com/timnon/pyschedule)
 
 ## Procurement
+* [Spraay SCTP](https://github.com/plagtech/sctp) - Agent-native invoice verification and payment protocol. AI agents verify invoices against purchase orders and execute USDC batch payments across 15+ chains via x402 micropayments. [Live gateway](https://gateway.spraay.app).
 
 ### Purchasing
 - [Add to Cart](https://github.com/jamez14/add-to-cart)
